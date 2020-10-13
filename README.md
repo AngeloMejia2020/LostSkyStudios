@@ -1,2 +1,2 @@
-# Lostskystudios.github.io
+# LostSkyStudios
  The Official Website of LostSky Studios.
